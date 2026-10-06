@@ -42,4 +42,3 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 Hello! My name is **Eng. Awuor Ndolo**. I am an Instrumentation and Control Engineer who has found her passion in Data Engineering, on a mission to build more, while at the same time sharing knowledge and enjoying the process of it all.
 
-Building a modern data warehouse with SQL Server, including ETL processes, data modelling and analytics
