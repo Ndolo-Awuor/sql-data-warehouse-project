@@ -14,8 +14,8 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 #### Specifications
 - **Data Sources**: Import data from two source systems (ERP and CRM) provided as CSV files.
-- **Data QUality**: Cleanse and resolve data quality issues prior to analysis.
-- **Integration**: Combine bothe sources into a single, user-friendly data model designed for analytical queries.
+- **Data Quality**: Cleanse and resolve data quality issues prior to analysis.
+- **Integration**: Combine both sources into a single, user-friendly data model designed for analytical queries.
 - **Scope**: Focus on the latest dataset only; historization of data is not required.
 - **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
@@ -25,7 +25,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 ### BI: Analytics & Reporting (Data Analytics)
 
 #### Objective
-Develop SQL-based analutics to deliver detailed insights into:
+Develop SQL-based analytics to deliver detailed insights into:
 - **Customer Behavior**
 - **Product Performance**
 - **Sales Trends**
@@ -38,7 +38,7 @@ These insights empower stakeholders with key business metrics, facilitating stra
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
-## ABout Me
+## About Me
 
 Hello! My name is **Eng. Awuor Ndolo**. I am an Instrumentation and Control Engineer who has found her passion in Data Engineering, on a mission to build more, while at the same time sharing knowledge and enjoying the process of it all.
 
